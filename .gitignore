@@ -1,0 +1,21 @@
+# ── Environments & Secrets ──
+.env
+api.txt
+venv/
+.venv/
+env/
+
+# ── Python & Testing Caches ──
+__pycache__/
+*.py[cod]
+*$py.class
+.pytest_cache/
+.cache/
+
+# ── Logs ──
+logs/
+*.log
+
+# ── OS Generated Files ──
+.DS_Store
+Thumbs.db
