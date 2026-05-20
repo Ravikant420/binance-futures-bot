@@ -149,5 +149,4 @@ These codes allow the bot to be integrated cleanly into shell scripts or CI pipe
 
 ## Author
 
-Ravi — Final Year B.Tech Computer Science, Nalanda College of Engineering  
-Internship Assignment | Binance Futures Testnet Bot
+Ravi Kant Kumar
