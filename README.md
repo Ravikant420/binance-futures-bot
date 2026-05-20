@@ -37,7 +37,7 @@ This bot was designed with enterprise-level separation of concerns, moving beyon
 
 ### 1. Clone the repository
 
-git clone https://github.com/your-username/binance-futures-bot.git
+git clone https://github.com/ravikant420/binance-futures-bot.git
 cd binance-futures-bot
 
 ### 2. Create and activate a virtual environment
